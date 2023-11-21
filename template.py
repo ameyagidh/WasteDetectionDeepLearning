@@ -7,7 +7,7 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 project_name = "wasteDetection"
 
 list_of_files = [
-    ".github/workflows/.gitkeep",
+    ".github/flowchart/.gitkeep",
     "data/.gitkeep",
     f"{project_name}/__init__.py",
     f"{project_name}/components/__init__.py",
