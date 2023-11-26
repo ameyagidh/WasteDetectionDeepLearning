@@ -44,10 +44,6 @@ The `App.py` file serves as the entry point for the application. It orchestrates
 
 ## Getting Started
 
-### Prerequisites
-
-- [List of prerequisites]
-
 ### Installation
 
 1. Clone the repository:
